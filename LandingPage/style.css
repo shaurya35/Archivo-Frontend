@@ -127,9 +127,8 @@ img {
   border-bottom: 1px solid var(--border-color);
   padding: 0 30px;
 }
- 
 
- .menu-circle {
+.menu-circle {
   width: 15px;
   height: 15px;
   background-color: #f96057;
@@ -138,12 +137,6 @@ img {
   margin-right: 195px;
   flex-shrink: 0;
   @media screen and (max-width: 945px) {
-   display: none;
+    display: none;
   }
- }
- 
-
- 
-
- 
- 
+}
